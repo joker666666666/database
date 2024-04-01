@@ -22,10 +22,10 @@ export default () => {
 
 # 结果
 ## 100个虚拟用户的结果
-![alt text](img/image-3.png)
+![alt text](img/100个虚拟用户.png)
 **系统无异常。**
 ## 1000个虚拟用户的结果
-![alt text](img/image-2.png)
+![alt text](img/1000个虚拟用户.png)
 **系统崩溃。**
 
 # 分析
